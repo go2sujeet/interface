@@ -1,0 +1,12 @@
+{
+  "name": "interface.ai",
+  "version": "1.0.0",
+  "description": "<!-- Objective: Create a Node.js script that encrypts text files within a specified directory using asynchronous programming. This script should encrypt the content of each text file using a basic Caesar Cipher for simplicity, then save the encrypted content to a new file in a different directory. The process should handle multiple files concurrently, support both encryption and decryption modes, and log the completion of each file operation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
